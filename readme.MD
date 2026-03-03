@@ -54,7 +54,7 @@ CITY=
 3.  Run:
 
 ``` bash
-python main.py
+python3 main.py
 ```
 
 The script will: - Open Chrome - Navigate to ImmobilienScout24 - Log in

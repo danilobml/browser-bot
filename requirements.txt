@@ -1,0 +1,3 @@
+pyautogui
+types-PyAutoGUI
+python-dotenv

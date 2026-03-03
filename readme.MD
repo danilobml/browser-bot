@@ -51,6 +51,7 @@ CITY=
 1.  Make sure your screen resolution and browser zoom match the expected
     layout. It was configured for the standard resolution for the macbook air M4: 1470 x 956 px
 2.  Adjust coordinates and delays in the script if necessary.
+(You can run the script at helpers/get_position.py, to get the position of where the mouse cursor is after 5 seconds, printed on the terminal/console)
 3.  Run:
 
 ``` bash

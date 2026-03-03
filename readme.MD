@@ -8,7 +8,7 @@ requests on ImmobilienScout24.
 
 ------------------------------------------------------------------------
 
-## ⚙Requirements
+## Requirements
 
 -   Python 3.14+
 -   Google Chrome
